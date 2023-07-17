@@ -12,3 +12,4 @@ Repository with some fundamentals examples in Ruby:
 *Refactoring
 *Procs
 *Lambdas
+*POO
