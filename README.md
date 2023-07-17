@@ -8,3 +8,7 @@ Repository with some fundamentals examples in Ruby:
 *Arrays and Hashes
 *Blocks
 *Sorting
+*Symbols
+*Refactoring
+*Procs
+*Lambdas
